@@ -41,3 +41,15 @@ Players choose from three difficulty levels, where ghost count and speed increas
 - ⌨️ Smooth keyboard controls (arrow keys)  
 - 🔄 Endless gameplay until the player loses
 ---
+
+## 📸 Screenshots
+
+Here are some in-game screenshots:
+
+### 🟡 Gameplay Preview
+
+![Start Screen](screenshots/menu.png)
+![Levels](screenshots/difficulities.png)
+![In-Game](screenshots/gameplay.png)
+![Ghosts Chase](screenshots/gameplay2.png)
+
